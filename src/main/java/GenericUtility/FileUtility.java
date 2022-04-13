@@ -5,7 +5,9 @@ import java.io.FileNotFoundException;
 import java.util.Properties;
 
 public class FileUtility {
-	
+	/**
+	 * thsi method will return not return
+	 */
 	
 	/**
 	 * this method will read the data from the common utility of properties file
