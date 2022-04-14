@@ -26,7 +26,7 @@ public class KidsWear {
 	ChromeOptions options= new ChromeOptions();
 	options.addArguments("--disable-notifications");
 	
-	
+	//browser
 	if (browser.equalsIgnoreCase("chrome")) {
 		WebDriverManager.chromedriver().setup();
 	     driver= new ChromeDriver(options);	
